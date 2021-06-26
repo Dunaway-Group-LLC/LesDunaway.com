@@ -1,0 +1,21 @@
+Step by Step
+Part I - define user dgl_adm
+1) Login
+2) Click Hosting List
+3) Click Go to Cpanel on line for digsvc.biz
+4) Scroll down to Preferences
+5) Click User Manager
+6) See dgl_adm@digsvc.biz has been defined
+
+Part II - Add admin user to Joomla for lesdunaway.com
+
+1) Login
+2) Click Hosting List
+3) Click Go to Cpanel on line for digsvc.biz
+4) Scroll down to Joomla, click
+5) Scroll down to https://lesdunaway.com, click Edit
+6) Scroll down to Admin Account (see screenshot)
+6a) Notice there's no username or password - they haven't yet been set (see screemshot)
+6b) Enter dgl_admin / #wq0hHhW0!OY for user / pw
+6c) Scroll to bottom; click Save Installation Details - see error (screenshot
+

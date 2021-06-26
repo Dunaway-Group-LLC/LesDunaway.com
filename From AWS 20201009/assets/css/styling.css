@@ -1,0 +1,48 @@
+.front-page {
+  background: #ffffff url('../img/faded-flag.png') no-repeat center center /cover;
+  text-align: center;
+}
+
+.front-page h1{
+  margin-top: 10rem;
+}
+
+.menu {
+  margin-top: 0rem;
+}
+
+.about-page {
+  background: #ffffff url('../img/intl-bus.jpg') no-repeat center center /cover;
+  text-align: center;
+
+}
+
+.about-page h1{
+  margin-top: 5rem;
+}
+
+.faith-page {
+  background: #ffffff url('../img/faith03.jpg') no-repeat center center /cover;
+  text-align: center;
+
+}
+
+.faith-page h1{
+  margin-top: 5rem;
+}
+
+.heritage-page {
+  background: #ffffff url('../img/oak-tree.jpg') no-repeat center center /cover;
+  text-align: center;
+
+}
+
+.heritage-page h1{
+  margin-top: 5rem;
+}
+
+.footer-page {
+  background: #000000;
+  min-height: 12rem;
+  color: #FFFFFF;
+}
